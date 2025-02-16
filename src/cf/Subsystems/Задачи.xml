@@ -80,6 +80,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.СогласоватьРесурсЗадачи</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.НаправитьНаСогласование</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ЗадачиЗапланированоПоСотрудникам</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.СправочникНовый</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

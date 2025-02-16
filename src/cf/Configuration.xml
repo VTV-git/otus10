@@ -2498,6 +2498,7 @@
 			<Catalog>ШагиСценариевПользователя</Catalog>
 			<Catalog>ЭлементыСправки</Catalog>
 			<Catalog>ЭталонныеБазыТестирования</Catalog>
+			<Catalog>СправочникНовый</Catalog>
 			<Document>ЗапускТестирования</Document>
 			<Document>УчетВремени</Document>
 			<Enum>АвтоИспользованиеОбщегоРеквизита</Enum>
